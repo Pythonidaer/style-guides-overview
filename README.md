@@ -4,7 +4,7 @@ A responsive study guide covering six style guide categories from [Atomic Design
 
 ## Scope
 
-Pattern libraries, brand identity, writing, voice and tone, code, and design language. Each topic has condensed notes, the chapter's historical example image, and source links. Benefits and challenges are reserved for a later update.
+Pattern libraries, brand identity, writing, voice and tone, code, and design language. Each topic has expanded study notes, the chapter's historical example image, and source links. Voice and tone connects to content design and GOV.UK guidance. Code covers automated guardrails and links to related learning resources. Future study notes cover JavaScript conventions and extracting distinct design languages. Benefits and challenges are reserved for a later update.
 
 ## Design reference
 
