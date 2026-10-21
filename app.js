@@ -97,6 +97,21 @@ const topics = [
         "Current destination of the chapter’s voiceandtone.com link"
       ],
       [
+        "NN/g: Four Dimensions of Tone of Voice",
+        "https://www.nngroup.com/articles/tone-of-voice-dimensions/",
+        "Describe tone through formality, humour, respectfulness, and enthusiasm"
+      ],
+      [
+        "NN/g: Tone-of-Voice Words",
+        "https://www.nngroup.com/articles/tone-voice-words/",
+        "37 tone descriptors for planning content and evaluating readers’ impressions"
+      ],
+      [
+        "Adobe Spectrum: Voice and tone",
+        "https://spectrum.adobe.com/content/voice-and-tone",
+        "Motivational, helpful, instructive, reassuring, and supportive tones for different situations"
+      ],
+      [
         "Content Design LMS",
         "https://github.com/Pythonidaer/content-design-lms",
         "Related learning project"
